@@ -5,6 +5,9 @@ University of Windsor, CA
 Bachelor of Technology         **CGPA (7.45)**  
 B.S. Abdur Rahman University Chennai, India
 
+## SKILLS
+Team coordination, analytical thinking, Quick Learner, Critical thinking, friendly, Web and Software development, Awesome Listener.
+
 ## TECHNICAL FORTE
 ```
 Cloud and deployment tools: AWS, GCP, Git, Jenkins, Docker, Ansible
