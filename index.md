@@ -3,7 +3,7 @@ Master of Applied Computing
 University of Windsor, CA
 
 Bachelor of Technology         **CGPA (7.45)**  
-B.S. Abdur Rahman University Chennai, India
+B.S. Abdur Rahman University Chennai, IN
 
 ## SKILLS
 Team coordination, analytical thinking, Quick Learner, Critical thinking, friendly, Web and Software development, Awesome Listener.
