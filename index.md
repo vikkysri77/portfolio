@@ -1,8 +1,19 @@
-## Welcome to GitHub Pages
+## EDUCATION
+Master of Applied Computing  
+University of Windsor, CA
 
-You can use the [editor on GitHub](https://github.com/vikkysri77/sridhargopu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Bachelor of Technology         **CGPA (7.45)**  
+B.S. Abdur Rahman University Chennai, India
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Technical Forte
+- Cloud and deployment tools: AWS, GCP, Git, Jenkins, Docker, Ansible
+- Languages & Frameworks: JavaScript, Java, HTML, CSS, bootstrap, Node, electronJS, expressJS
+- Database: Mysql, NeDb
+- IDE: Visual Studio code, IntelliJ IDEA, IntelliJ WebStorm, Eclipse, PyCharm
+- Automation Frameworks, Libraries & tools: Protractor, Rest Assured, Postman, SoapUI, Browser Stack, Selenium Grid, TestNG
+- Bug tracking and Performance tools: JIRA, JMeter
+- Others: Linux commands
+- Work methodologies: Agile, Scrum, Kanban
 
 ### Markdown
 
