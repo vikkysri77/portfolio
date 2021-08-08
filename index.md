@@ -24,11 +24,11 @@ Work methodologies: Agile, Scrum, Kanban
 - AWS Certified Cloud Practitioner
 
 ## ACCOLADES & HONOURS
-- Star performer of the year 2020
+Star performer of the year 2020
 Revature Consultancy Services, Chennai, IN  
 
-- Best performer of the quarter 2018
+Best performer of the quarter 2018
 Revature Consultancy Services, Chennai, IN  
 
-- Joint Secretary June’15 – May’16
+Joint Secretary June’15 – May’16
 Computer Science Department B.S. Abdur Rahman University Chennai, India
