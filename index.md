@@ -5,7 +5,8 @@ University of Windsor, CA
 Bachelor of Technology         **CGPA (7.45)**  
 B.S. Abdur Rahman University Chennai, India
 
-## Technical Forte
+## TECHNICAL FORTE
+```
 - Cloud and deployment tools: AWS, GCP, Git, Jenkins, Docker, Ansible
 - Languages & Frameworks: JavaScript, Java, HTML, CSS, bootstrap, Node, electronJS, expressJS
 - Database: Mysql, NeDb
@@ -14,6 +15,7 @@ B.S. Abdur Rahman University Chennai, India
 - Bug tracking and Performance tools: JIRA, JMeter
 - Others: Linux commands
 - Work methodologies: Agile, Scrum, Kanban
+```
 
 ### Markdown
 
